@@ -1,6 +1,6 @@
 Description:
 
-This project automates the automation assignment using Selenium with Cucumber framework and Maven as build management tool.
+Automation assignment using Selenium with Cucumber framework and Maven as build management tool.
 
 Prerequisites/Configuration setup required for the project:
 
