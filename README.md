@@ -5,7 +5,7 @@ Automation assignment using Selenium with Cucumber framework and Maven as build 
 Prerequisites/Configuration setup required for the project:
 
 JRE/JDK 1.8
-
+test 
 Maven 3.1.1
 
 Download and setup project on local machine:
